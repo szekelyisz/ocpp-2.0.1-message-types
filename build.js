@@ -1,5 +1,3 @@
-const messageTypes = ["BootNotificationRequest", "BootNotificationResponse"];
-
 const fs = require("fs");
 const json2ts = require("json-schema-to-typescript");
 
