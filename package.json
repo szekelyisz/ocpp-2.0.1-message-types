@@ -1,0 +1,18 @@
+{
+  "name": "mtcharger-messages",
+  "version": "1.0.0",
+  "description": "MTCharger OCPP Message Types",
+  "main": "build.js",
+  "author": "Szabolcs Szekelyi <szabi@aura-labs.cc>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "prepare": "node build.js"
+  },
+  "devDependencies": {
+    "json-schema-to-typescript": "^10.1.4"
+  },
+  "files": [
+    "dist/*.d.ts"
+  ]
+}
