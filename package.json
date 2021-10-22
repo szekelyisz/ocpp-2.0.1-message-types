@@ -1,6 +1,6 @@
 {
   "name": "mtcharger-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MTCharger OCPP Message Types",
   "main": "build.js",
   "author": "Szabolcs Szekelyi <szabi@aura-labs.cc>",
